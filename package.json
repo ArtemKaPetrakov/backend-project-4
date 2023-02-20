@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ArtemKaPetrakov/backend-project-4/issues"
   },
-  "homepage": "https://github.com/ArtemKaPetrakov/backend-project-4#readme"
+  "homepage": "https://github.com/ArtemKaPetrakov/backend-project-4#readme",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
 }
